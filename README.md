@@ -1,7 +1,7 @@
 
 # readme gen
-![unidentified object.](./readmegenimg.png)
-![unidentified object.](./readmegenimg(2).png)
+![unidentified object.](develop/readmegenimg.png)
+![unidentified object.](develop/readmegenimg(2).png)
 
 
 
